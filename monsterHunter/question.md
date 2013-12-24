@@ -21,6 +21,7 @@
  - HiruScura     ( H )   GodAxe          ( g )       IceSword      ( i )
  - Javaanos      ( J )   IceSword        ( i )       KingsLance    ( k )
  - LalalaLalala  ( L )   KingsLance      ( k )       AssaultRapier ( a )
+
 最初の状態ではあなたにモンスターは倒せない。床に落ちている武器を拾い、それで倒す。 
 武器はいずれも頑丈で、モンスターを何匹倒しても劣化したり壊れたりしない。 
 武器は、モンスターを倒して手に入れることもできる。 
@@ -44,6 +45,7 @@ gLDLBgBgHDaD
  - LalalaLalala    が 2 体 いる
  - AssaultRapier   が 1 個 ある
  - GodAxe          が 3 個 ある
+
 ということを意味している。
 
 この状況では、拾った武器やモンスターを倒して手に入れた武器を駆使すると、 6 体のモンスターを倒すことができる。 
