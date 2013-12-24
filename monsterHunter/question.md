@@ -15,12 +15,12 @@
 ダンジョンには以下のモンスターがいる。
 
 モンスター(記号)      倒すのに必要な武器(記号)    倒すと手に入る武器(記号)
-BuruBuru      ( B )   AssaultRapier   ( a )       CoiledSpear   ( c )
-DainaRex      ( D )   CoiledSpear     ( c )       EnchantedRod  ( e )
-FatherConga   ( F )   EnchantedRod    ( e )       GodAxe        ( g )
-HiruScura     ( H )   GodAxe          ( g )       IceSword      ( i )
-Javaanos      ( J )   IceSword        ( i )       KingsLance    ( k )
-LalalaLalala  ( L )   KingsLance      ( k )       AssaultRapier ( a )
+ - BuruBuru      ( B )   AssaultRapier   ( a )       CoiledSpear   ( c )
+ - DainaRex      ( D )   CoiledSpear     ( c )       EnchantedRod  ( e )
+ - FatherConga   ( F )   EnchantedRod    ( e )       GodAxe        ( g )
+ - HiruScura     ( H )   GodAxe          ( g )       IceSword      ( i )
+ - Javaanos      ( J )   IceSword        ( i )       KingsLance    ( k )
+ - LalalaLalala  ( L )   KingsLance      ( k )       AssaultRapier ( a )
 最初の状態ではあなたにモンスターは倒せない。床に落ちている武器を拾い、それで倒す。 
 武器はいずれも頑丈で、モンスターを何匹倒しても劣化したり壊れたりしない。 
 武器は、モンスターを倒して手に入れることもできる。 
