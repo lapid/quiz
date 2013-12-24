@@ -38,12 +38,12 @@ gLDLBgBgHDaD
 武器  a, c, e, g, i, k
 したがって、この入力文字列は目の前に
 
-BuruBuru        が 2 体 いる
-DainaRex        が 3 体 いる
-HiruScura       が 1 体 いる
-LalalaLalala    が 2 体 いる
-AssaultRapier   が 1 個 ある
-GodAxe          が 3 個 ある
+ - BuruBuru        が 2 体 いる
+ - DainaRex        が 3 体 いる
+ - HiruScura       が 1 体 いる
+ - LalalaLalala    が 2 体 いる
+ - AssaultRapier   が 1 個 ある
+ - GodAxe          が 3 個 ある
 ということを意味している。
 
 この状況では、拾った武器やモンスターを倒して手に入れた武器を駆使すると、 6 体のモンスターを倒すことができる。 
